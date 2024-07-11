@@ -1,4 +1,4 @@
-name: Update AppVeyor Image
+tag:name: Update AppVeyor Image
 
 # Run chron daily Mon-Fri
 on:
